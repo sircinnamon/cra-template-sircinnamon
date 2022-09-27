@@ -1,0 +1,15 @@
+{
+  "name": "cra-template-sircinnamon",
+  "version": "1.0.0",
+  "description": "Personally tailored template for create-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cra",
+    "cra-template"
+  ],
+  "author": "Riley Lahd <sircinnamon@gmail.com>",
+  "license": "ISC"
+}
