@@ -11,5 +11,9 @@
     "cra-template"
   ],
   "author": "Riley Lahd <sircinnamon@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sircinnamon/cra-template-sircinnamon.git"
+  }
 }
